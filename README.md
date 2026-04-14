@@ -2,10 +2,9 @@
 
 🔁 Fluxo automatizado
 
-🔹 Cenário principal (happy path)
-  Login com usuário válido
-  Listar produtos
-  Adicionar item ao carrinho
-  Validar item no carrinho
-  Finalizar compra
-  Validar sucesso da compra
+1.  Login com usuário válido
+2.  Listar produtos
+3.  Adicionar item ao carrinho
+4.  Validar item no carrinho
+5.  Finalizar compra
+6.  Validar sucesso da compra
