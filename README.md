@@ -1,2 +1,14 @@
-# Demo-de-E-commerce
-Fluxo de compra no site https://www.saucedemo.com/
+🧪 Cenário do Projeto
+
+Use um site público como:
+
+https://www.saucedemo.com/
+ (perfeito pra isso)
+🔁 Fluxo automatizado
+🔹 Cenário principal (happy path)
+Login com usuário válido
+Listar produtos
+Adicionar item ao carrinho
+Validar item no carrinho
+Finalizar compra
+Validar sucesso da compra
