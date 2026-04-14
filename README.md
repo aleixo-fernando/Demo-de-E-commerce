@@ -1,6 +1,7 @@
 🧪 Cenário do Projeto
 
 🔁 Fluxo automatizado
+
 🔹 Cenário principal (happy path)
 Login com usuário válido
 Listar produtos
