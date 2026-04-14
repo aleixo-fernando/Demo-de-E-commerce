@@ -1,9 +1,5 @@
 🧪 Cenário do Projeto
 
-Use um site público como:
-
-https://www.saucedemo.com/
- (perfeito pra isso)
 🔁 Fluxo automatizado
 🔹 Cenário principal (happy path)
 Login com usuário válido
